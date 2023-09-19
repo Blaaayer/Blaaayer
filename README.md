@@ -5,9 +5,11 @@
 
 - ⚡ Fun fact **I used to play semi-professional roller hockey 🏑**
 
+
 <h5 align="left">My bootcamp project:</h3>
-<a href="https://github.com/JulesChevrant/OVNINB">Shape Sync</a>
- : an Gymp app.
+<ul dir="auto">
+  <li><a href="https://github.com/kevinkotcherga/VIBES">Shape Sync</a> : a Gymp app..</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gonçaloblayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçaloblayer" height="30" width="40" /></a>
