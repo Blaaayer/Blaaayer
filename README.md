@@ -6,7 +6,7 @@
 - ⚡ Fun fact **I used to play semi-professional roller hockey 🏑**
 
 
-<h5 align="left">My bootcamp project:</h3>
+<h3 align="left">My bootcamp project:</h3>
 <ul dir="auto">
   <li><a href="https://www.shapesync.org/" target= "blank">Shape Sync</a> : a Gym app</li>
 </ul>
