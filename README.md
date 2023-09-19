@@ -8,7 +8,7 @@
 
 <h5 align="left">My bootcamp project:</h3>
 <ul dir="auto">
-  <li><a href="https://www.shapesync.org/">Shape Sync</a> : a Gym app</li>
+  <li><a href="https://www.shapesync.org/" target= "blank">Shape Sync</a> : a Gym app</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
